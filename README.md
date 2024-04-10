@@ -15,8 +15,7 @@
 
 <br>
 
-- 5+ years of developing stuff on the net
-- Been playing around hardwares n stuff
+- 6+ years of developing stuff on the net
 - Likes to push the boundaries of frameworks (Developed a game on powerbuilder96) 
 - Personal website [link](https://www.temodontur.com)
 - I’m currently open for opensource projects
